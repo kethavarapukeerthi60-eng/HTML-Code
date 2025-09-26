@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Keerthi - Simple CV</title>
+</head>
+<body>
+    <h1>Keerthi</h1>
+    <p>Junior Web Developer | Email: kethavarapukeerthi60@gmail.com</p>
+
+    <h2>Skills</h2>
+    <ul>
+        <li>HTML</li>
+        <li>CSS (Basic)</li>
+        <li>Microsoft Office</li>
+    </ul>
+
+    <h2>Experience</h2>
+    <p><strong>Retail Associate</strong> - Local Store (2022-2023)</p>
+    <p>Handled customer transactions and managed inventory.</p>
+
+    <h2>Education</h2>
+    <p><strong>High School Diploma</strong> - City High School (2021)</p>
+</body>
+</html>
